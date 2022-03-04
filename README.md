@@ -1,2 +1,2 @@
 # java_study
-### java (Oracle) / MySQL 공부 
+### java (Eclipse) / MySQL 공부 
